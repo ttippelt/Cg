@@ -1,0 +1,50 @@
+﻿Der Buildvorgang wurde am 15.04.2014 15:22:38 gestartet.
+     1>Projekt "C:\Users\Tim\Desktop\CG\Aufgabe1\depend\GLFW-3.0.4\src\glfw.vcxproj" auf Knoten "3", Build Ziel(e).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/depend/GLFW-3.0.4/src/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Tim\Desktop\CG\Aufgabe1\depend\GLFW-3.0.4\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/depend/GLFW-3.0.4/src" /I"C:/Users/Tim/Desktop/CG/Aufgabe1/depend/GLFW-3.0.4/src" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D NOMINMAX /D _USE_MATH_DEFINES /D WIN32_LEAN_AND_MEAN /D VC_EXTRALEAN /D NODEFAULTLIB /D _VARIADIC_MAX=10 /D _CRT_SECURE_NO_WARNINGS /D UNICODE /D WINVER=0x0501 /D _GLFW_USE_CONFIG_H /D "CMAKE_INTDIR=\"Debug\"" /D glfw_EXPORTS /D _WINDLL /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glfw.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/glfw3.pdb" /Gd /TC /analyze- /FC /errorReport:prompt  /Zm1000 "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\clipboard.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\context.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\gamma.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\init.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\input.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\joystick.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\monitor.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\time.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\window.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_clipboard.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_gamma.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_init.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_joystick.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_monitor.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_time.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_window.c" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\wgl_context.c"
+         clipboard.c
+         context.c
+         gamma.c
+         init.c
+         input.c
+         joystick.c
+         monitor.c
+         time.c
+         window.c
+         win32_clipboard.c
+         win32_gamma.c
+         win32_init.c
+         win32_joystick.c
+         win32_monitor.c
+         win32_time.c
+         win32_window.c
+         wgl_context.c
+         Code wird generiert...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\glfw3.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib winmm.lib opengl32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/glfw3.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/glfw3dll.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /DLL glfw.dir\Debug\clipboard.obj
+         glfw.dir\Debug\context.obj
+         glfw.dir\Debug\gamma.obj
+         glfw.dir\Debug\init.obj
+         glfw.dir\Debug\input.obj
+         glfw.dir\Debug\joystick.obj
+         glfw.dir\Debug\monitor.obj
+         glfw.dir\Debug\time.obj
+         glfw.dir\Debug\window.obj
+         glfw.dir\Debug\win32_clipboard.obj
+         glfw.dir\Debug\win32_gamma.obj
+         glfw.dir\Debug\win32_init.obj
+         glfw.dir\Debug\win32_joystick.obj
+         glfw.dir\Debug\win32_monitor.obj
+         glfw.dir\Debug\win32_time.obj
+         glfw.dir\Debug\win32_window.obj
+         glfw.dir\Debug\wgl_context.obj
+            Bibliothek "C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/glfw3dll.lib" und Objekt "C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/glfw3dll.exp" werden erstellt.
+         glfw.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\glfw3.dll
+     1>Die Erstellung des Projekts "C:\Users\Tim\Desktop\CG\Aufgabe1\depend\GLFW-3.0.4\src\glfw.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:12.51

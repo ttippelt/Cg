@@ -1,0 +1,27 @@
+﻿Der Buildvorgang wurde am 15.04.2014 16:13:11 gestartet.
+     1>Projekt "C:\Users\Tim\Desktop\CG\Aufgabe1\exercises\raytracer\raytracer.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/exercises" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D NOMINMAX /D _USE_MATH_DEFINES /D WIN32_LEAN_AND_MEAN /D VC_EXTRALEAN /D NODEFAULTLIB /D _VARIADIC_MAX=10 /D "CMAKE_INTDIR=\"Debug\"" /D raytracer_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"raytracer.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/raytracer.pdb" /Gd /TP /analyze- /FC /errorReport:prompt  /Zm1000 "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\raytracer\Plane.cpp" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\raytracer\Triangle.cpp"
+         Plane.cpp
+         Triangle.cpp
+         Code wird generiert...
+     1>c:\users\tim\desktop\cg\a_03_task 1 package\exercises\raytracer\triangle.cpp(34): warning C4700: Die nicht initialisierte lokale Variable "lambda" wurde verwendet.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\raytracer.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/raytracer.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/raytracer.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /DLL raytracer.dir\Debug\BoundingBox.obj
+         raytracer.dir\Debug\Camera.obj
+         raytracer.dir\Debug\ConstantMaterial.obj
+         raytracer.dir\Debug\Image.obj
+         raytracer.dir\Debug\Light.obj
+         raytracer.dir\Debug\PerspectiveCamera.obj
+         raytracer.dir\Debug\Plane.obj
+         raytracer.dir\Debug\Raytracer.obj
+         raytracer.dir\Debug\Renderable.obj
+         raytracer.dir\Debug\Scene.obj
+         raytracer.dir\Debug\Sphere.obj
+         raytracer.dir\Debug\Triangle.obj
+         raytracer.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\raytracer.dll
+     1>Die Erstellung des Projekts "C:\Users\Tim\Desktop\CG\Aufgabe1\exercises\raytracer\raytracer.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:05.27

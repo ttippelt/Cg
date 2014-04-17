@@ -1,0 +1,11 @@
+C:/Users/Tim/Desktop/CG/Aufgabe1/depend/GLFW-3.0.4/CMakeFiles/ALL_BUILD.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_animals/CMakeFiles/example_animals.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_hello_world/CMakeFiles/example_hello_world.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_memory_fun/CMakeFiles/example_memory_fun.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/depend/glew-1.10.0/CMakeFiles/glew.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/depend/GLFW-3.0.4/src/CMakeFiles/glfw.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/opengl/CMakeFiles/opengl.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer/CMakeFiles/raytracer.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer_task1/CMakeFiles/raytracer_task1.dir
+C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer_test/CMakeFiles/raytracer_test.dir

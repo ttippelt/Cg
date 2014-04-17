@@ -1,0 +1,20 @@
+﻿Der Buildvorgang wurde am 15.04.2014 15:22:56 gestartet.
+     1>Projekt "C:\Users\Tim\Desktop\CG\Aufgabe1\exercises\opengl\opengl.vcxproj" auf Knoten "3", Build Ziel(e).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/exercises/opengl/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\Tim\Desktop\CG\Aufgabe1\exercises\opengl\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/exercises" /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/depend/glew-1.10.0/include" /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/depend/GLFW-3.0.4/include" /I"C:/Users/Tim/Desktop/CG/A_03_Task 1 Package/exercises/opengl/raytracer" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D NOMINMAX /D _USE_MATH_DEFINES /D WIN32_LEAN_AND_MEAN /D VC_EXTRALEAN /D NODEFAULTLIB /D _VARIADIC_MAX=10 /D "CMAKE_INTDIR=\"Debug\"" /D opengl_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"opengl.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/opengl.pdb" /Gd /TP /analyze- /FC /errorReport:prompt  /Zm1000 "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\opengl\Math.cpp" "C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\opengl\RaytracerWindow.cpp"
+         Math.cpp
+         RaytracerWindow.cpp
+         Code wird generiert...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\opengl.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\Debug\glew.lib ..\..\Debug\glfw3dll.lib glu32.lib opengl32.lib ..\..\Debug\raytracer.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/opengl.pdb" /SUBSYSTEM:CONSOLE /STACK:"10000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/opengl.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /DLL opengl.dir\Debug\Math.obj
+         opengl.dir\Debug\RaytracerWindow.obj
+            Bibliothek "C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/opengl.lib" und Objekt "C:/Users/Tim/Desktop/CG/Aufgabe1/Debug/opengl.exp" werden erstellt.
+         opengl.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\Debug\opengl.dll
+     1>Die Erstellung des Projekts "C:\Users\Tim\Desktop\CG\Aufgabe1\exercises\opengl\opengl.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:05.71

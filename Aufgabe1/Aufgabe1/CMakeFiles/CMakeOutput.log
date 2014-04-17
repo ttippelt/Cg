@@ -1,0 +1,175 @@
+The system is: Windows - 6.2 - x86
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: CompilerIdC, Konfiguration: Debug Win32 ------
+1>  CMakeCCompilerId.c
+1>  CompilerIdC.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\2.8.10.2\CompilerIdC\.\CompilerIdC.exe
+1>  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/2.8.10.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: CompilerIdCXX, Konfiguration: Debug Win32 ------
+1>  CMakeCXXCompilerId.cpp
+1>  CompilerIdCXX.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\2.8.10.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/2.8.10.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3337136363
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec3337136363, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3337136363.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3337136363.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>  cmTryCompileExec3337136363.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3337136363.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec68853334
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec68853334, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec68853334.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec68853334.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>  cmTryCompileExec68853334.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec68853334.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3678957452
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec3678957452, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3678957452.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3678957452.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>  cmTryCompileExec3678957452.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3678957452.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3522576730
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec3522576730, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec3522576730.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3522576730.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 "C:\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>  cmTryCompileExec3522576730.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3522576730.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+
+Performing C SOURCE FILE Test OpenMP_FLAG_DETECTED succeded with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3222613919
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec3222613919, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D OpenMP_FLAG_DETECTED /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"cmTryCompileExec3222613919.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3222613919.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 src.c
+1>  
+1>  src.c
+1>  cmTryCompileExec3222613919.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3222613919.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
+Performing C++ SOURCE FILE Test OpenMP_FLAG_DETECTED succeded with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec1583926880
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec1583926880, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D OpenMP_FLAG_DETECTED /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /openmp /Fo"cmTryCompileExec1583926880.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1583926880.pdb" /Gd /TP /analyze- /errorReport:prompt  /Zm1000 src.cxx
+1>  
+1>  src.cxx
+1>  cmTryCompileExec1583926880.vcxproj -> C:\Users\Tim\Desktop\CG\Aufgabe1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1583926880.exe
+========== Erstellen: 1 erfolgreich, 0 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+

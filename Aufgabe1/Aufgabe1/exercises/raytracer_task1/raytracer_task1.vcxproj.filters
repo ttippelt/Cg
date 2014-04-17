@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\raytracer_task1\raytracer_task1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\exercises\raytracer_task1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5756FAE8-A015-43CA-A644-1F82B0EF7DDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

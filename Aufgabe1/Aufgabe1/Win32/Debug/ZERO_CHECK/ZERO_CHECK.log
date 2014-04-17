@@ -1,0 +1,22 @@
+﻿Der Buildvorgang wurde am 15.04.2014 15:22:35 gestartet.
+     1>Projekt "C:\Users\Tim\Desktop\CG\Aufgabe1\ZERO_CHECK.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/depend/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/depend/GLFW-3.0.4/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/depend/GLFW-3.0.4/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/depend/glew-1.10.0/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_animals/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_hello_world/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/example_memory_fun/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/opengl/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer_task1/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because C:/Users/Tim/Desktop/CG/Aufgabe1/exercises/raytracer_test/CMakeFiles/generate.stamp is up-to-date.
+     1>Die Erstellung des Projekts "C:\Users\Tim\Desktop\CG\Aufgabe1\ZERO_CHECK.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.68

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\CMakeLists.txt" />
+    <CustomBuild Include="..\..\CMakeFiles\e9b5ccaee9528ca7e2f0992e988569e2\ALL_BUILD.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{912C5E30-5743-4A6D-8EE0-DB1E662C2D06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

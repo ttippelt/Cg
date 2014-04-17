@@ -1,0 +1,24 @@
+Determining if files pthread.h exist failed with the following output:
+Change Dir: C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~1.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec3165970405
+
+Microsoft (R) Microsoft Visual Studio 2012 Version 11.0.50727.1.
+Copyright (C) Microsoft Corp. Alle Rechte vorbehalten.
+1>------ Erstellen gestartet: Projekt: cmTryCompileExec3165970405, Konfiguration: Debug Win32 ------
+1>  Microsoft (R) C/C++-Optimierungscompiler Version 17.00.50727.1 fÅr x86
+1>  Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec3165970405.dir\Debug\\" /Fd"C:/Users/Tim/Desktop/CG/Aufgabe1/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3165970405.pdb" /Gd /TC /analyze- /errorReport:prompt  /Zm1000 CheckIncludeFiles.c
+1>  
+1>  CheckIncludeFiles.c
+1>CheckIncludeFiles.c(2): fatal error C1083: Datei (Include) kann nicht geîffnet werden: "pthread.h": No such file or directory
+========== Erstellen: 0 erfolgreich, 1 fehlerhaft, 0 aktuell, 0 Åbersprungen ==========
+
+Source:
+/* */
+#include <pthread.h>
+
+
+int main(){return 0;}
+

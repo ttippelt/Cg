@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\clipboard.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\gamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_clipboard.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_gamma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\wgl_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tim\Desktop\CG\A_03_Task 1 Package\depend\GLFW-3.0.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5756FAE8-A015-43CA-A644-1F82B0EF7DDC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21ED5FD7-4672-4492-9DD4-F0FE4CBEFD37}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
